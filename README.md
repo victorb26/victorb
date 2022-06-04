@@ -1,4 +1,4 @@
-
+<img alt="Victor Barros" src="./Victor Barros.png" width="5000px">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorb26&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d0d0d&langs_count=3" />
