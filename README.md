@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorb26&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d0d0d&langs_count=3"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorb26&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d0d0d&langs_count=3" />
   <img src="https://github-readme-stats.vercel.app/api?username=victorb26&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=6824ec&bg_color=0d0d0d" alt="victorb26 GitHub Stats" />
 </div>
 </p>
