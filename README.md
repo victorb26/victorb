@@ -37,6 +37,4 @@
 </div>
 
 ###
-<img href="https://github.com/victorb26/victorb26/blob/output/snake.svg" alt="Snake animation" />
 
-###
